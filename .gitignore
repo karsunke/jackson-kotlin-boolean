@@ -1,0 +1,16 @@
+.gradle
+/build/
+/out/
+gradle.properties
+!gradle/wrapper/gradle-wrapper.jar
+
+.idea/*
+.run
+*iml
+/bin/
+.DS_Store
+.classpath
+.project
+.settings/
+.vscode/
+.run-local/
